@@ -36,7 +36,7 @@ export const Hero = () => {
       {/* Bg */}
       <div className="absolute inset-0">
         <img
-          src="/"D:\dev-personal-protfolio\my-vite-app\public\Project\profile-image.jpeg"
+          src="/"profile-image"
           alt="Hero image"
           className="w-full h-full object-cover opacity-40"
         />
