@@ -12,9 +12,9 @@ const testimonials = [
   },
   {
     quote:
-      "Working with Pedro was a game-changer for our project. He delivered ahead of schedule with code quality that set a new standard for our team.",
-    author: "Michael Rodriguez",
-    role: "Product Manager, Digital Solutions",
+      "Working with Priyanshu was a game-changer for our project. He delivered ahead of schedule with code quality that set a new standard for our team.",
+    author: "Shubham Mishra",
+    role: "Software Engineer",
     avatar:
       "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
   },
