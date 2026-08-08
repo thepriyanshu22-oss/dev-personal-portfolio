@@ -31,10 +31,10 @@ export const Navbar = () => {
     >
       <nav className="container mx-auto px-6 flex items-center justify-between">
         <a
-          href="#"
+          href="theamritesh22@gmail.com"
           className="text-xl font-bold tracking-tight hover:text-primary"
         >
-          PM<span className="text-primary">.</span>
+          Priyanshu Mishra<span className="text-primary">.</span>
         </a>
 
         {/* Desktop Nav */}
