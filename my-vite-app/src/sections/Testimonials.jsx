@@ -8,7 +8,7 @@ const testimonials = [
     author: "Shashank Mishra",
     role: "My Mentor",
     avatar:
-      "https://my-vite-app/src/assets/Shashank Mishra.jpeg",
+      "https://Shashank Mishra.jpeg",
   },
   {
     quote:
