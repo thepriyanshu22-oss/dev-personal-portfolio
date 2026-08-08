@@ -21,8 +21,8 @@ const testimonials = [
   {
     quote:
       "Priyanshu's expertise in React and TypeScript helped us rebuild our entire frontend in record time. His architectural decisions continue to pay dividends.",
-    author: "Emily Watson",
-    role: "Engineering Lead, StartUp Labs",
+    author: "Milan Kumar",
+    role: "Web Developer, StartUp Labs",
     avatar:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop",
   },
