@@ -20,7 +20,7 @@ const testimonials = [
   },
   {
     quote:
-      "Pedro's expertise in React and TypeScript helped us rebuild our entire frontend in record time. His architectural decisions continue to pay dividends.",
+      "Priyanshu's expertise in React and TypeScript helped us rebuild our entire frontend in record time. His architectural decisions continue to pay dividends.",
     author: "Emily Watson",
     role: "Engineering Lead, StartUp Labs",
     avatar:
@@ -28,7 +28,7 @@ const testimonials = [
   },
   {
     quote:
-      "Not only is Pedro technically brilliant, but he's also a fantastic communicator and team player. He elevated everyone around him.",
+      "Not only is Priyanshu technically brilliant, but he's also a fantastic communicator and team player. He elevated everyone around him.",
     author: "David Kim",
     role: "CEO, Innovation Hub",
     avatar:
